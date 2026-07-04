@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Rishanth+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+%2B+AI%2FML+Enthusiast;Building+things+that+actually+ship" alt="Typing SVG" />
@@ -6,6 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishanth-p-407084290)
+[![Gmail](https://img.shields.io/badge/Email-rishanth167%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishanth167@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rishanth04/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rishanth167)
 
@@ -15,12 +15,13 @@
 
 ### 🎯 About Me
 
-I'm a Computer Science student who builds complete, working software rather than half-finished demos — full-stack apps, AI-assisted tools, and systems-style projects, usually delivered end-to-end and ready to run.
+I'm **Rishanth P**, a Computer Science and Business Systems (CSBS) student who builds complete, working software rather than half-finished demos — full-stack apps, AI-assisted tools, and systems-style projects, usually delivered end-to-end and ready to run.
 
 - 🌱 Currently exploring: **Full Stack Development, AI/ML, and Data Structures & Algorithms**
 - 🛠️ I like taking a project from idea → working product, not just a prototype
-- 💡 Interested in ServiceNow development and applied AI tooling
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishanth-p-407084290)
+- 💡 Certified in ServiceNow — see certifications below
+- 📫 **Email:** [rishanth167@gmail.com](mailto:rishanth167@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/rishanth-p-407084290](https://www.linkedin.com/in/rishanth-p-407084290)
 
 ---
 
@@ -38,6 +39,13 @@ I'm a Computer Science student who builds complete, working software rather than
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=white)
 
 </div>
+
+---
+
+### 🎓 Certifications
+
+- ✅ **ServiceNow Certified System Administrator (CSA)**
+- ✅ **ServiceNow Certified System Developer (CSD)**
 
 ---
 
