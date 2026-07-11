@@ -152,7 +152,7 @@ DSA practice and problem solving across LeetCode and HackerRank
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-rishanth--p-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rishanth-p-407084290)
-📍 Nmakkal, Tamil Nadu, India
+📍 Namakkal, Tamil Nadu, India
 
 *Building things that actually ship, one project at a time.*
 
